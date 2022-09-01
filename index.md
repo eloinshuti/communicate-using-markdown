@@ -8,3 +8,8 @@ $ git log
 $ git stash
 $ git stash list
 ```
+- [x] Created a repository
+- [x] Created a branch
+- [x] Created headers and an image
+- [ ] Merged a pull request
+- [ ] Finished
